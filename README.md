@@ -5,3 +5,4 @@ Git config là câu lệnh mà chúng ta phải thực thi đầu tiên cài đ�
 
 `$ git config --global user.name "Your name"` <br>
 `$ git config --global user.email "Your email"`
+
